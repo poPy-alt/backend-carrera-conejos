@@ -25,7 +25,7 @@ Este es el backend del juego Rabbit Race, construido con Node.js, Express y Post
      cp .env.example .env
      ```
    - Edita `.env` con tus credenciales:
-     - `PORT`: Puerto en el que correrá el servidor (default: 5000).
+     - `PORT`: Puerto en el que correrá el servidor (default: 1000).
      - `DATABASE_URL`: URL de conexión a tu base de datos PostgreSQL.
      - `JWT_SECRET`: Una clave secreta para la generación de tokens JWT.
 
